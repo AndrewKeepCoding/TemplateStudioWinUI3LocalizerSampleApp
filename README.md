@@ -1,0 +1,1 @@
+# TemplateStudioWinUI3LocalizerSampleApp
