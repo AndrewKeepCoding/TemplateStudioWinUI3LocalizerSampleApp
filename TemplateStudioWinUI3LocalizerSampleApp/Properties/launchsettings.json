@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "TemplateStudioWinUI3LocalizerSampleApp (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "TemplateStudioWinUI3LocalizerSampleApp (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

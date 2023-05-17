@@ -1,0 +1,9 @@
+﻿namespace TemplateStudioWinUI3LocalizerSampleApp.Helpers;
+
+public static class ResourceExtensions
+{
+    //private static readonly ResourceLoader _resourceLoader = new();
+
+    //public static string GetLocalized(this string resourceKey) => _resourceLoader.GetString(resourceKey);
+    public static string GetLocalizedString(this string resourceKey) => WinUI3Localizer.Localizer.Get().GetLocalizedString(resourceKey);
+}
